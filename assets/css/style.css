@@ -131,7 +131,7 @@ input[type="submit"]:hover {
 
 .cta-button:hover {
     color: #fff;
-    background-image: url("https://github.com/ADHI258/Space_project/blob/b13697911b2c6df4e0f1c4b4dbcb6c5ae3c1978e/assets/images/Screenshot.png");
+    background-image: url("../images/Screenshot.png");
     text-align: center;
 }
 .container {
