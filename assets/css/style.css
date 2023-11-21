@@ -131,7 +131,7 @@ input[type="submit"]:hover {
 
 .cta-button:hover {
     color: #fff;
-    background-image: url("../images/Screenshot.png");
+    background-image: url("assets/images/Screenshot.png");
     text-align: center;
 }
 .container {
