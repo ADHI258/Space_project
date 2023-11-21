@@ -97,7 +97,7 @@ input[type="submit"]:hover {
 
 
 .hero {
-    background-image: url("../images/space-perspective-capsule.jpg"); 
+    background-image: url("asset/images/space-perspective-capsule.jpg"); 
     height: 500px;
     background-size: cover;
     background-position: center;
@@ -131,7 +131,7 @@ input[type="submit"]:hover {
 
 .cta-button:hover {
     color: #fff;
-    background-image: url("../images/Screenshot\ 2023-11-20\ 191517.png");
+    background-image: url("assets/images/Screenshot 2023-11-20 191517.png");
     text-align: center;
 }
 .container {
